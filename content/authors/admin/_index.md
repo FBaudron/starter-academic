@@ -1,39 +1,41 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Frédéric Baudron
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Systems Agronomist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: International Maize & Wheat Improvement Center (CIMMYT)
+  url: https://www.cimmyt.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include farming system research, sustainable intenification, agriculture-biodiversity nexus, appropriate mechanization and participatory innovation development.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Farming system research
+- Sustainable intensification
+- Agriculture-biodiversity nexus
+- Appropriate mechanization
+- Participatory innovation development
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Production Ecology and Resource Conservation
+    institution: Wageningen University, The Netherlands
+    year: 2011
+  - course: Diploma of Specialized Agronomy (Master of Science) in Animal Science
+    institution: AgroParisTech, France
+    year: 2001
+  - course: Diploma of General Agronomy
+    institution: SupAgro Montpellier, France
+    year: 2000
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,16 +47,10 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/fbaudron
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://scholar.google.com/citations?user=jnV1ByMAAAAJ&hl=en
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +66,7 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Frédéric Baudron is a Principal Scientist working for the International Maize and Wheat Improvement Centre (CIMMYT) based in Harare, Zimbabwe. Trained as a tropical agronomist in France, he specialized as a livestock scientist and started his carreer working for various international organizations (Cirad, WWF, etc) targeting the interface between people (mainly farmers) and wildlife in Zimbabwe (and neighboring countries). He then carried his PhD on plant production systems at the University of Wageningen (The Netherlands).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He is involved in a number of research projects in Ethiopia, Kenya, Rwanda, Tanzania, Zambia and Zimbabwe. He has over 18 years of experience developing solutions with and for smallholders in East and Southern Africa.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
